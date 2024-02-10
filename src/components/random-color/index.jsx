@@ -29,9 +29,9 @@ const RandomColor = () => {
     }
 
     useEffect(() => {
-      if(typeOfColor === 'rgb') handleCreateRandomRgbColor()
-      else handleCreateRandomHexColor()
-    }, [typeOfColor])
+      if(typeOfColor === 'rgb') handleCreateRandomRgbColor();
+      else handleCreateRandomHexColor();
+    }, [typeOfColor]);
 
     return (
         <div style={{
