@@ -1,1 +1,0 @@
-# encarta-random-color-generator
