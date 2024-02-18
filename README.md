@@ -69,7 +69,7 @@
 
 LIVE DEMO
 
-> Live demo comg soon...
+> Visit the [live](https://anyars-encarta.github.io/encarta-random-color-generator/) page of the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
