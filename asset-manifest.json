@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/encarta-random-color-generator/static/css/main.adf39fa4.css",
+    "main.js": "/encarta-random-color-generator/static/js/main.de96cf1c.js",
+    "static/js/592.35aa6656.chunk.js": "/encarta-random-color-generator/static/js/592.35aa6656.chunk.js",
+    "index.html": "/encarta-random-color-generator/index.html",
+    "main.adf39fa4.css.map": "/encarta-random-color-generator/static/css/main.adf39fa4.css.map",
+    "main.de96cf1c.js.map": "/encarta-random-color-generator/static/js/main.de96cf1c.js.map",
+    "592.35aa6656.chunk.js.map": "/encarta-random-color-generator/static/js/592.35aa6656.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adf39fa4.css",
+    "static/js/main.de96cf1c.js"
+  ]
+}
