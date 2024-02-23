@@ -20,6 +20,7 @@ const RandomColor = () => {
     setColor(hexColor);
   };
 
+  // function to define rgb colors
   const handleCreateRandomRgbColor = () => {
     const r = randomColorUtility(256);
     const g = randomColorUtility(256);
