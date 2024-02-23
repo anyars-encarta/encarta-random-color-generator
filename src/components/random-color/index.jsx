@@ -35,6 +35,7 @@ const RandomColor = () => {
     // eslint-disable-next-line
   }, [typeOfColor]);
 
+  // render colors
   return (
     <div style={{
       width: '100vw',
